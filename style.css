@@ -1,0 +1,62 @@
+.contact{
+    margin-top: 16px;
+}
+.header{
+    margin: 2rem 20rem 2rem;
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo{
+    width: calc(3vw + 3vh);
+    object-fit: cover;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.first,.second,.third,.fourth,.fifth,.sixth,.imag{
+    padding: calc(0.2rem);
+    color: black;
+}
+.imag:hover{
+    color: red;
+    font-size: 140%;
+    transition: all 0.4s;
+}
+.title{
+    align-items: center;
+    text-align: center;
+    font-size: 210%;
+}
+.middle{
+    margin: 2rem 20rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left{
+    width: 100px;
+}
+.right{
+    width: 100px;
+}
+.image{
+    border-radius: 30%;
+}
+.bold{
+    font-size: 150%;
+    font-weight: bold;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logo2{
+    padding: 40px 60px;
+}
+    
