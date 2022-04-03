@@ -1,3 +1,9 @@
+*{
+    background-color: rgb(230, 202, 202);
+    font-family: 'Montserrat', sans-serif;
+    
+    
+}
 .contact{
     margin-top: 16px;
 }
@@ -38,7 +44,13 @@
     align-items: center;
 }
 .left{
-    width: 100px;
+    width: 150px;
+}
+.m_h{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    
 }
 .right{
     width: 100px;
